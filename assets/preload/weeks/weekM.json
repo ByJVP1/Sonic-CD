@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Iron-Bars",
+			"metal",
+			[
+				6,
+				19,
+				135
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "s",
+	"difficulties": "Bf,Bf-new",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

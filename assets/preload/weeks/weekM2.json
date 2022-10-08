@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["aquariam", "metal", [0, 19, 135]],
+		["", "", [28, 25, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+	"difficulties": "Bf,Bf-new",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
