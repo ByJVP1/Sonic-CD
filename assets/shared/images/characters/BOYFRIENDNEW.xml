@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIENDNEW.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF HEY!!0000" x="0" y="19" width="417" height="438"/>
+	<SubTexture name="BF HEY!!0001" x="0" y="19" width="417" height="438"/>
+	<SubTexture name="BF HEY!!0002" x="433" y="29" width="409" height="428"/>
+	<SubTexture name="BF HEY!!0003" x="433" y="29" width="409" height="428"/>
+	<SubTexture name="BF HEY!!0004" x="862" y="7" width="412" height="431"/>
+	<SubTexture name="BF down sing0000" x="1733" y="555" width="417" height="395"/>
+	<SubTexture name="BF down sing0001" x="1733" y="555" width="417" height="395"/>
+	<SubTexture name="BF down sing0002" x="11" y="963" width="415" height="396"/>
+	<SubTexture name="BF down sing0003" x="11" y="963" width="415" height="396"/>
+	<SubTexture name="BF down sing0004" x="445" y="974" width="417" height="391"/>
+	<SubTexture name="BF idle dance0000" x="1303" y="64" width="402" height="412"/>
+	<SubTexture name="BF idle dance0001" x="1724" y="62" width="405" height="415"/>
+	<SubTexture name="BF idle dance0002" x="23" y="503" width="403" height="421"/>
+	<SubTexture name="BF idle dance0003" x="470" y="528" width="404" height="421"/>
+	<SubTexture name="BF idle dance0004" x="893" y="517" width="406" height="431"/>
+	<SubTexture name="BF idle dance0005" x="1317" y="516" width="405" height="432"/>
+	<SubTexture name="BF left sing0000" x="1296" y="1505" width="423" height="433"/>
+	<SubTexture name="BF left sing0001" x="1296" y="1505" width="423" height="433"/>
+	<SubTexture name="BF left sing0002" x="1734" y="1506" width="421" height="432"/>
+	<SubTexture name="BF left sing0003" x="1734" y="1506" width="421" height="432"/>
+	<SubTexture name="BF left sing0004" x="24" y="1933" width="422" height="432"/>
+	<SubTexture name="BF right sing0000" x="923" y="978" width="404" height="434"/>
+	<SubTexture name="BF right sing0001" x="923" y="978" width="404" height="434"/>
+	<SubTexture name="BF right sing0002" x="1339" y="1002" width="400" height="434"/>
+	<SubTexture name="BF right sing0003" x="1339" y="1002" width="400" height="434"/>
+	<SubTexture name="BF right sing0004" x="1754" y="1005" width="392" height="430"/>
+	<SubTexture name="BF up sing0000" x="39" y="1411" width="390" height="471"/>
+	<SubTexture name="BF up sing0001" x="39" y="1411" width="390" height="471"/>
+	<SubTexture name="BF up sing0002" x="477" y="1439" width="384" height="468"/>
+	<SubTexture name="BF up sing0003" x="477" y="1439" width="384" height="468"/>
+	<SubTexture name="BF up sing0004" x="879" y="1445" width="389" height="462"/>
+</TextureAtlas>
