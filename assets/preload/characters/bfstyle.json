@@ -1,0 +1,252 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				15,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				30,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF left sing"
+		},
+		{
+			"offsets": [
+				12,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF down sing"
+		},
+		{
+			"offsets": [
+				-29,
+				33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF up sing"
+		},
+		{
+			"offsets": [
+				-46,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF right sing"
+		},
+		{
+			"offsets": [
+				29,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bf miss left"
+		},
+		{
+			"offsets": [
+				13,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF miss down"
+		},
+		{
+			"offsets": [
+				-30,
+				32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF miss up"
+		},
+		{
+			"offsets": [
+				-40,
+				35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF miss right"
+		},
+		{
+			"offsets": [
+				-3,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "BF HEY!!"
+		},
+		{
+			"offsets": [
+				12,
+				-32
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singDOWN-hold",
+			"loop": false,
+			"name": "BF down sing"
+		},
+		{
+			"offsets": [
+				-29,
+				33
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singUP-hold",
+			"loop": false,
+			"name": "BF up sing"
+		},
+		{
+			"offsets": [
+				-46,
+				1
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singRIGHT-hold",
+			"loop": false,
+			"name": "BF right sing"
+		},
+		{
+			"offsets": [
+				30,
+				-5
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singLEFT-hold",
+			"loop": false,
+			"name": "BF left sing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ludwig",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

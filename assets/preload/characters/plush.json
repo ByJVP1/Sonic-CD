@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				107,
-				61
+				57,
+				41
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				20,
-				-13
+				0,
+				27
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				160,
-				211
+				130,
+				131
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				71,
-				42
+				141,
+				52
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -57,12 +57,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/metal",
+	"image": "characters/plush",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "metal",
+	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
 		0,
